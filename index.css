@@ -3,32 +3,33 @@ body{
     
  }
  .first-text h2{
-     font-size:50px;
-     font-family:Georgia, 'Times New Roman', Times, serif;
+     font-size:50 px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
  }
  
  .container-of-header {
  
- height: 224px;
- left: 50px;
+ height: 224 px;
+ left: 50 px;
  top:0;
  background-attachment: scroll;
  text-align: center;
  }
  .container-of-button{
  display: flex;
- margin: 5px;
+ margin: 5 px;
  }
  .container-of-button div{
  display: grid;
- grid-template-columns: 50px 50px;
- margin: 10px;}
+ grid-template-columns: 50 px 50 px;
+ margin: 10 px;
+ }
  .full-of-image-1{
- background-image:url(firstimage.png);
+ background-image:URL(https://github.com/iamRe0ne/Bioplast/assets/124243129/6833a90a-1fc5-4ab5-a556-2e6b0f3bef4c);
  background-repeat: no-repeat;
- width:auto;
- height: 680px;
- top:50px;
+ width: auto;
+ height: 680 px;
+ top:50 px;
  background-size: cover;
  background-attachment: fixed;
     
@@ -37,25 +38,25 @@ body{
  /*full of image 3*/    
  .container-of-full-of-image-3{
     text-align: center;
-    justify-content: center;
-   margin-top: 50px;
+    justify-content:center;
+   margin-top: 50 px;
    display: flex;
  }    
  
  
  .full-of-image-3{
- width: 1200px;
-  height: 1240px;
+ width: 1200 px;
+  height: 1240 px;
  filter: brightness(0.5);
  
  
  
  }
  .container-of-full-of-image-3 p{
-     width: 900px;
-     height: 500px;
-     font-size: 45px;
-     margin-top: 200px;
+     width: 900 px;
+     height: 500 px;
+     font-size: 45 px;
+     margin-top: 200 px;
      position: absolute;
      color: white;
   
@@ -75,10 +76,10 @@ body{
      
  }
  .images-of-part-3 .image-big{
-     width:300px;
-     height: 520px;
+     width:300 px;
+     height: 520 px;
      position: relative;
- background-image: url(big-image-malty-1.jpg);
+ background-image: URL (big-image-malty-1.jpg);
  background-repeat: no-repeat;
  background-size: cover;
  
@@ -94,43 +95,43 @@ body{
  }
  .alt-of-images-of-part-3{
     background-color: green;
-    width: 900px;
+    width: 900 px;
  }
  .container-of-small-images{
     display: grid;
-     grid-template-columns: 300px 300px;
+     grid-template-columns: 300 px 300 px;
     text-align: center;
-    margin: 3px;
+    margin: 3 px;
    
     
  } 
  .container-of-small-images .small-images-1 {
-     margin: 3px;
+     margin: 3 px;
      background-repeat: no-repeat;
      background-size: cover;
-     background-image: url(image-1-malty.png);
+     background-image: URL (image-1-malty.png);
      position: relative;
      text-align: center;
     
  }
  
  .container-of-small-images .small-images-2{
-     margin: 3px;;
+     margin: 3 px;
    
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-  background-image: url(image-malty-2.jpg);
+  background-image: URL (image-malty-2.jpg);
      
  }
  .container-of-small-images .small-images-3{
-     margin: 3px;
+     margin: 3 px;
    
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
      
-     background-image: url(image-malty-3.jpg);
+     background-image: URL (image-malty-3.jpg);
      
  }
  .container-of-small-images .small-images-4{
@@ -138,12 +139,12 @@ body{
    
     background-repeat: no-repeat;
     background-size: cover;
-   background-image: url(imag-malty-4.jpg);
+   background-image: URL (imag-malty-4.jpg);
      
  }
  .video-container{
-     width:300px;
-     height:520px;
+     width:300 px;
+     height:520 px;
  text-align: center;
  position: relative;
  }
@@ -155,39 +156,39 @@ body{
      justify-content: center;
  }
  .container-of-form{
- margin-top: 50px;
+ margin-top: 50 px;
  
- width: 950px;
+ width: 950 px;
  
    
  
  }
  input[type=text]{
-     width: 940px;
-     height: 51px;
-     padding: 3px 3px 3px 5px;
- border-width:1px;
+     width: 940 px;
+     height: 51 px;
+     padding: 3 px 3 px 3 px 5 px;
+ border-width:1 px;
  }
  input[type=email]{
-     width: 940px;
-     height: 51px;
-     padding: 3px 3px 3px 5px;
- border-width:1px;
+     width: 940 px;
+     height: 51 px;
+     padding: 3 px 3 px 3 px 5 px;
+ border-width:1 px;
  }
  input[type=submit]{
- right: 0px;
- position:absolute;
- background-color:#050504;
- width: 142px;
- height: 47px;
+ right: 0  px;
+ position: absolute;
+ background-color: #050504;
+ width: 142 px;
+ height: 47 px;
  color: white;
- border-width:1px;
+ border-width:1 px;
  }
  textarea{
-     width: 932px;
-     height: 126px;
-     padding: 11.25px 10px 3px 5px;
-    border-width:1px; 
+     width: 932 px;
+     height: 126 px;
+     padding: 11.25 px 10 px 3 px 5 px;
+    border-width:1 px; 
  }
  form{
  position: relative;
@@ -195,7 +196,7 @@ body{
  }
  label{
      position: absolute;
-     left:0px;
+     left:0 px;
  }
  
  .bioplast-mesajinizi-gozluyur{
@@ -217,9 +218,9 @@ body{
  text-align: center;
  justify-content: center;}
  .icon-a-button div{
-     width: 300px;
-     height: 50px;
-     margin: 40px;
+     width: 300 px;
+     height: 50 px;
+     margin: 40 px;
  
  
      }
@@ -228,8 +229,8 @@ body{
  
      text-align: center;
     
-    margin-top: 40px;
-  font-size: 2px;
+    margin-top: 40 px;
+  font-size: 2 px;
  }
  .icon-a-button .button  button{
  
@@ -237,8 +238,8 @@ body{
      text-align: center;
    
  background: none;
- width: 69px;
- height:44px ;
+ width: 69 px;
+ height:44 px ;
  
  
  }
