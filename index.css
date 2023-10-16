@@ -1,0 +1,301 @@
+body{
+    margin: 0;
+    
+ }
+ .first-text h2{
+     font-size:50px;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+ }
+ 
+ .container-of-header {
+ 
+ height: 224px;
+ left: 50px;
+ top:0;
+ background-attachment: scroll;
+ text-align: center;
+ }
+ .container-of-button{
+ display: flex;
+ margin: 5px;
+ }
+ .container-of-button div{
+ display: grid;
+ grid-template-columns: 50px 50px;
+ margin: 10px;}
+ .full-of-image-1{
+ background-image:url(firstimage.png);
+ background-repeat: no-repeat;
+ width:auto;
+ height: 680px;
+ top:50px;
+ background-size: cover;
+ background-attachment: fixed;
+    
+ }
+ 
+ /*full of image 3*/    
+ .container-of-full-of-image-3{
+    text-align: center;
+    justify-content: center;
+   margin-top: 50px;
+   display: flex;
+ }    
+ 
+ 
+ .full-of-image-3{
+ width: 1200px;
+  height: 1240px;
+ filter: brightness(0.5);
+ 
+ 
+ 
+ }
+ .container-of-full-of-image-3 p{
+     width: 900px;
+     height: 500px;
+     font-size: 45px;
+     margin-top: 200px;
+     position: absolute;
+     color: white;
+  
+     
+ }
+ .images-of-part-3{
+     display: flex; 
+     position: relative;
+     
+     width:100%wv;
+     justify-content: center;
+     position: relative;
+     box-sizing: border-box;
+     margin-top: 50px;
+  
+ 
+     
+ }
+ .images-of-part-3 .image-big{
+     width:300px;
+     height: 520px;
+     position: relative;
+ background-image: url(big-image-malty-1.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
+ background-position: center;
+ 
+ }
+ /*Images of part 3*/
+ .images-of-part-3{
+
+    display: flex;
+    text-align: center;
+    justify-content: center;
+ }
+ .alt-of-images-of-part-3{
+    background-color: green;
+    width: 900px;
+ }
+ .container-of-small-images{
+    display: grid;
+     grid-template-columns: 300px 300px;
+    text-align: center;
+    margin: 3px;
+   
+    
+ } 
+ .container-of-small-images .small-images-1 {
+     margin: 3px;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-image: url(image-1-malty.png);
+     position: relative;
+     text-align: center;
+    
+ }
+ 
+ .container-of-small-images .small-images-2{
+     margin: 3px;;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  background-image: url(image-malty-2.jpg);
+     
+ }
+ .container-of-small-images .small-images-3{
+     margin: 3px;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+     
+     background-image: url(image-malty-3.jpg);
+     
+ }
+ .container-of-small-images .small-images-4{
+     margin: 3px;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-image: url(imag-malty-4.jpg);
+     
+ }
+ .video-container{
+     width:300px;
+     height:520px;
+ text-align: center;
+ position: relative;
+ }
+ /*End of small images*/
+ .header-of-container-of-form{
+     display: flex;
+     
+     text-align: center;
+     justify-content: center;
+ }
+ .container-of-form{
+ margin-top: 50px;
+ 
+ width: 950px;
+ 
+   
+ 
+ }
+ input[type=text]{
+     width: 940px;
+     height: 51px;
+     padding: 3px 3px 3px 5px;
+ border-width:1px;
+ }
+ input[type=email]{
+     width: 940px;
+     height: 51px;
+     padding: 3px 3px 3px 5px;
+ border-width:1px;
+ }
+ input[type=submit]{
+ right: 0px;
+ position:absolute;
+ background-color:#050504;
+ width: 142px;
+ height: 47px;
+ color: white;
+ border-width:1px;
+ }
+ textarea{
+     width: 932px;
+     height: 126px;
+     padding: 11.25px 10px 3px 5px;
+    border-width:1px; 
+ }
+ form{
+ position: relative;
+ text-align: center;
+ }
+ label{
+     position: absolute;
+     left:0px;
+ }
+ 
+ .bioplast-mesajinizi-gozluyur{
+ text-align: center;
+ color: green;
+ }
+ 
+ 
+ 
+ .complex{
+ display: flex;}
+ 
+ .complex div{
+ background-color: red;
+ }
+ .icon-a-button{
+ display: flex;
+ 
+ text-align: center;
+ justify-content: center;}
+ .icon-a-button div{
+     width: 300px;
+     height: 50px;
+     margin: 40px;
+ 
+ 
+     }
+   
+ .icon-a-button .button{
+ 
+     text-align: center;
+    
+    margin-top: 40px;
+  font-size: 2px;
+ }
+ .icon-a-button .button  button{
+ 
+ 
+     text-align: center;
+   
+ background: none;
+ width: 69px;
+ height:44px ;
+ 
+ 
+ }
+ 
+ .icon-a-button .button .TR{
+ border-top: none;
+ border-width: 1px;
+ border-right:none ;
+ border-bottom: none;
+ }
+ .icon-a-button .button .EN{
+     border-top: none;
+     border-left: none;
+     border-right:none ;
+     border-bottom: none;
+     }
+ 
+ 
+ 
+ 
+ 
+ .a-href{
+     text-align: center;
+     width: 300px;
+  
+     border-width: 1px;}
+     .a-href a{
+         margin-top: 20px;
+         transition: 3s;
+         text-decoration: none;
+         font-size: 17px;
+         color: black;
+         
+         
+         }
+     
+     .instagram-icon-a img{ 
+     margin-top:5px ;
+     }
+     .end{
+         text-align: center;
+         
+     }
+     .end div{
+        margin-top: 100px;
+         font-size: xx-large;
+     }
+     .year{
+     text-align: center;
+     font-size: large;
+     background-color: black;
+     color: white;
+     height: 50px;
+     display: flex;
+     justify-content: center;
+    
+     }
+     .year p{
+         margin-top: 10px;
+     }
