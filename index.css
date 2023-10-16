@@ -25,7 +25,7 @@ body{
  margin: 10 px;
  }
  .full-of-image-1{
- background-image:URL(https://github.com/iamRe0ne/Bioplast/assets/124243129/6833a90a-1fc5-4ab5-a556-2e6b0f3bef4c);
+ background-image:URL(https://github.com/iamRe0ne/Bioplast/assets/124243129/0137e188-69b4-47e6-8475-00ceaacf1685);
  background-repeat: no-repeat;
  width: auto;
  height: 680 px;
@@ -79,7 +79,7 @@ body{
      width:300 px;
      height: 520 px;
      position: relative;
- background-image: URL (big-image-malty-1.jpg);
+ background-image:URL (https://github.com/iamRe0ne/Bioplast/assets/124243129/a8a2b656-9dab-4a76-b3c2-2963d1c021f1);
  background-repeat: no-repeat;
  background-size: cover;
  
@@ -109,7 +109,7 @@ body{
      margin: 3 px;
      background-repeat: no-repeat;
      background-size: cover;
-     background-image: URL (image-1-malty.png);
+     background-image: URL (https://github.com/iamRe0ne/Bioplast/assets/124243129/f418a9ab-2148-4858-82e6-84df4b67340f);
      position: relative;
      text-align: center;
     
@@ -121,7 +121,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-  background-image: URL (image-malty-2.jpg);
+  background-image: URL (https://github.com/iamRe0ne/Bioplast/assets/124243129/3d3455c4-60aa-4694-9a41-c7034c6bfc81);
      
  }
  .container-of-small-images .small-images-3{
@@ -131,15 +131,15 @@ body{
     background-size: cover;
     background-position: center;
      
-     background-image: URL (image-malty-3.jpg);
+     background-image: URL (https://github.com/iamRe0ne/Bioplast/assets/124243129/1075334f-0a70-4389-86ed-dfd512925a5f);
      
  }
  .container-of-small-images .small-images-4{
-     margin: 3px;
+     margin: 3 px;
    
     background-repeat: no-repeat;
     background-size: cover;
-   background-image: URL (imag-malty-4.jpg);
+   background-image: URL (https://github.com/iamRe0ne/Bioplast/assets/124243129/1075334f-0a70-4389-86ed-dfd512925a5f);
      
  }
  .video-container{
